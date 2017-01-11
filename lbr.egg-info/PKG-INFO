@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: lbr
+Version: 0.0.1
+Summary: Pure Python Implementation of lets_be_rational by Peter Jackel
+Home-page: http://github.com/tbretagne/lbr
+Author: Tanguy Bretagne
+Author-email: tanguy.bretagne@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: volatility finance option black
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Office/Business :: Financial
